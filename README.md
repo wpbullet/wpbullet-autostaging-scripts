@@ -1,1 +1,8 @@
 # wpbullet-autostaging-scripts
+
+<a href="https://guides.wp-bullet.com"><img src="https://guides.wp-bullet.com/wp-content/uploads/2016/07/wp-bullet-logo.svg" height="50"></a>
+WP Bullet Guides Autostaging Scripts
+These scripts are for easily creating WordPress or WooCommerce staging servers running nginx or Apache.
+There are creation and removal scripts.
+Not tested on multisite (and is likely to not work)
+Only tested on Ubuntu and Debian but other OSes should work if you change the SITE variables.
